@@ -1,7 +1,7 @@
 /* Tablet Mode */
 @media (max-width:1000px){
     .copy-container h1 {
-        font-size: 80px;
+        font-size: 70px;
         letter-spacing: 5px;  
     }
     .copy-container h2 {
