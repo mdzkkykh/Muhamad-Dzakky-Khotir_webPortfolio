@@ -52,11 +52,11 @@ li {
 .copy-container {
   margin-top: 100px;
   margin-bottom: 100px;
+  padding: 0 20px;
 }
 
 .copy-container h1 {
   font-size: 140px;
-  margin: 0 20px;
   margin-bottom: 0px;
   letter-spacing: 10px;
 }
